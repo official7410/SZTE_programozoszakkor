@@ -1,0 +1,18 @@
+HTML
+    a, b, i, p,
+    div, ul/li, span,
+    table, tr, td/th,
+CSS
+    color
+    background-color
+    border
+    border-radius
+    box-shadow
+CSS grid
+    flex
+display
+    -fixed
+        -top
+        -left
+        -right
+    -
